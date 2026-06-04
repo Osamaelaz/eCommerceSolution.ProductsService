@@ -1,0 +1,15 @@
+D:\Udemy\Harsha\MicroServices\PublishGitHup\2.ProductsMicroServices\BackEnd\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.deps.json
+D:\Udemy\Harsha\MicroServices\PublishGitHup\2.ProductsMicroServices\BackEnd\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.dll
+D:\Udemy\Harsha\MicroServices\PublishGitHup\2.ProductsMicroServices\BackEnd\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.pdb
+D:\Udemy\Harsha\MicroServices\PublishGitHup\2.ProductsMicroServices\BackEnd\BusinessLogicLayer\bin\Debug\net8.0\DataAccessLayer.dll
+D:\Udemy\Harsha\MicroServices\PublishGitHup\2.ProductsMicroServices\BackEnd\BusinessLogicLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\Udemy\Harsha\MicroServices\PublishGitHup\2.ProductsMicroServices\BackEnd\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.csproj.AssemblyReference.cache
+D:\Udemy\Harsha\MicroServices\PublishGitHup\2.ProductsMicroServices\BackEnd\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\Harsha\MicroServices\PublishGitHup\2.ProductsMicroServices\BackEnd\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.AssemblyInfoInputs.cache
+D:\Udemy\Harsha\MicroServices\PublishGitHup\2.ProductsMicroServices\BackEnd\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.AssemblyInfo.cs
+D:\Udemy\Harsha\MicroServices\PublishGitHup\2.ProductsMicroServices\BackEnd\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\Udemy\Harsha\MicroServices\PublishGitHup\2.ProductsMicroServices\BackEnd\BusinessLogicLayer\obj\Debug\net8.0\Business.450209FB.Up2Date
+D:\Udemy\Harsha\MicroServices\PublishGitHup\2.ProductsMicroServices\BackEnd\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.dll
+D:\Udemy\Harsha\MicroServices\PublishGitHup\2.ProductsMicroServices\BackEnd\BusinessLogicLayer\obj\Debug\net8.0\refint\BusinessLogicLayer.dll
+D:\Udemy\Harsha\MicroServices\PublishGitHup\2.ProductsMicroServices\BackEnd\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.pdb
+D:\Udemy\Harsha\MicroServices\PublishGitHup\2.ProductsMicroServices\BackEnd\BusinessLogicLayer\obj\Debug\net8.0\ref\BusinessLogicLayer.dll

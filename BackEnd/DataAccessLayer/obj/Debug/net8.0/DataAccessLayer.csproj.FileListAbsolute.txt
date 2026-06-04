@@ -1,0 +1,12 @@
+D:\Udemy\Harsha\MicroServices\PublishGitHup\2.ProductsMicroServices\BackEnd\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+D:\Udemy\Harsha\MicroServices\PublishGitHup\2.ProductsMicroServices\BackEnd\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+D:\Udemy\Harsha\MicroServices\PublishGitHup\2.ProductsMicroServices\BackEnd\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\Udemy\Harsha\MicroServices\PublishGitHup\2.ProductsMicroServices\BackEnd\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\Udemy\Harsha\MicroServices\PublishGitHup\2.ProductsMicroServices\BackEnd\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\Harsha\MicroServices\PublishGitHup\2.ProductsMicroServices\BackEnd\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\Udemy\Harsha\MicroServices\PublishGitHup\2.ProductsMicroServices\BackEnd\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+D:\Udemy\Harsha\MicroServices\PublishGitHup\2.ProductsMicroServices\BackEnd\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Udemy\Harsha\MicroServices\PublishGitHup\2.ProductsMicroServices\BackEnd\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+D:\Udemy\Harsha\MicroServices\PublishGitHup\2.ProductsMicroServices\BackEnd\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+D:\Udemy\Harsha\MicroServices\PublishGitHup\2.ProductsMicroServices\BackEnd\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+D:\Udemy\Harsha\MicroServices\PublishGitHup\2.ProductsMicroServices\BackEnd\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
